@@ -100,4 +100,11 @@
   .text-container {
     text-align: justify;
   }
+
+  .project-img {
+    border-radius: 2rem;
+    width: 18rem;
+    height: 10rem;
+    object-fit: cover;
+  }
 }
