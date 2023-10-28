@@ -430,6 +430,14 @@ article .icon {
   cursor: default;
 }
 
+.icon-round {
+  border-radius: 50%;
+}
+
+.text-color {
+  color: #000;
+}
+
 .email-icon {
   height: 2.5rem;
 }
