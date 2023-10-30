@@ -375,6 +375,7 @@ article .icon {
 .project-title {
   margin: 1rem;
   color: black;
+  margin-bottom: 0;
 }
 
 .project-btn {
@@ -424,6 +425,10 @@ article .icon {
 
 .icon-round {
   border-radius: 50%;
+}
+
+.text-color {
+  color: #000;
 }
 
 /* FOOTER SECTION */
